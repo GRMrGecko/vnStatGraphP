@@ -1,0 +1,1 @@
+I needed a tool like this for my pfSense router, so I decided to go ahead and write my own. I loved getting these graphs from [vnStat](http://humdi.net/vnstat/), and wanted it on my new router. Easy to share and nice to look at. Make sure you edit the config.php file to your liking.
