@@ -37,7 +37,9 @@ require("config.php");
 		color: #afafaf;
 	}
 	label.optionName {
-		width: 50pt;
+	    width: 60pt;
+	    display: inline-block;
+	    text-align: right;
 	}
 	span.optionContainer {
 		
